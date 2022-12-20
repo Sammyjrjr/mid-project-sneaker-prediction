@@ -72,6 +72,6 @@ There is a clearly a hype around certain sneaker models and some of them can mak
 
 # Authors
 You can reach us here: 
-- [@Sammyjrjr](https://github.com/Sammyjrjr)
+- (https://github.com/Sammyjrjr)
 - [@itsmrn ](https://github.com/itsmrn) 
 
